@@ -27,5 +27,5 @@ print(sheet.col(1)[2])
 neprfolders = os.listdir(os.sep.join([os.getcwd(), 'vslfolder']))
 print(neprfolders)
 
-pd.read_pickle()
-pd.to_pickle()
+# pd.read_pickle()
+# pd.to_pickle()
