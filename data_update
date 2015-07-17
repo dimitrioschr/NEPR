@@ -1,0 +1,4784 @@
+<HTML>
+<HEAD><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></HEAD>
+<BODY><TABLE BORDER="1">
+<TR>
+<TD>Asset name</TD>
+<TD>Received date &amp; time</TD>
+<TD>Position date &amp; time</TD>
+<TD>Latitude</TD>
+<TD>Longitude</TD>
+<TD>Speed<BR>(knots)</TD>
+<TD>Average speed<BR>(knots)</TD>
+<TD>Heading<BR>(degrees)</TD>
+<TD>Traffic status</TD>
+<TD>exampleVolt</TD>
+<TD>Proximity direction<BR>(eight point)</TD>
+<TD>Proximity name</TD>
+<TD>Wind speed<BR>(knots)</TD>
+<TD>Wind direction<BR>(degrees)</TD>
+<TD>Pressure<BR>(mbar)</TD>
+<TD>Wind &amp; swell wave height<BR>(meters)</TD>
+<TD>Wind wave height<BR>(meters)</TD>
+<TD>Wind wave period<BR>(seconds)</TD>
+<TD>Swell wave direction<BR>(degrees)</TD>
+<TD>Swell wave height<BR>(meters)</TD>
+<TD>Swell wave period<BR>(seconds)</TD>
+<TD>Primary wave direction<BR>(degrees)</TD>
+<TD>Primary wave period<BR>(seconds)</TD>
+<TD>Journey state</TD>
+<TD>Distance moved<BR>(nautical miles)</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-10 18:48:13</TD>
+<TD>2015-07-10 18:48:11</TD>
+<TD>10° 44' 28.38" S</TD>
+<TD>93° 53' 14.70" E</TD>
+<TD>9.1</TD>
+<TD> </TD>
+<TD>56.9</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>Northwest</TD>
+<TD>Port Refuge</TD>
+<TD>22.2</TD>
+<TD>122</TD>
+<TD>1012</TD>
+<TD>2.8</TD>
+<TD>2.6</TD>
+<TD>9.3</TD>
+<TD>218</TD>
+<TD>0.9</TD>
+<TD>13.6</TD>
+<TD>155</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-11 18:48:28</TD>
+<TD>2015-07-11 18:48:03</TD>
+<TD>8° 57' 44.40" S</TD>
+<TD>97° 30' 37.74" E</TD>
+<TD>10.1</TD>
+<TD>10</TD>
+<TD>60.9</TD>
+<TD>Standard</TD>
+<TD>130</TD>
+<TD>North</TD>
+<TD>Port Refuge</TD>
+<TD>18.4</TD>
+<TD>133</TD>
+<TD>1011</TD>
+<TD>2.5</TD>
+<TD>2.4</TD>
+<TD>9.9</TD>
+<TD>218</TD>
+<TD>0.6</TD>
+<TD>13.4</TD>
+<TD>162</TD>
+<TD>9.9</TD>
+<TD>n/a</TD>
+<TD>239.3</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-12 18:48:46</TD>
+<TD>2015-07-12 18:47:56</TD>
+<TD>7° 18' 10.50" S</TD>
+<TD>101° 15' 35.64" E</TD>
+<TD>10.3</TD>
+<TD>10.2</TD>
+<TD>84.9</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>South</TD>
+<TD>Bengkulu</TD>
+<TD>10.7</TD>
+<TD>126</TD>
+<TD>1009</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>163</TD>
+<TD>1.8</TD>
+<TD>10</TD>
+<TD>169</TD>
+<TD>10</TD>
+<TD>n/a</TD>
+<TD>243.9</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-13 18:48:08</TD>
+<TD>2015-07-13 18:47:55</TD>
+<TD>6° 20' 34.14" S</TD>
+<TD>105° 19' 01.50" E</TD>
+<TD>9.8</TD>
+<TD>10.4</TD>
+<TD>65.3</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>West</TD>
+<TD>Labuhan</TD>
+<TD>8.9</TD>
+<TD>128</TD>
+<TD>1008</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>248.5</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-14 18:51:35</TD>
+<TD>2015-07-14 18:51:00</TD>
+<TD>3° 16' 59.70" S</TD>
+<TD>107° 20' 40.14" E</TD>
+<TD>11.4</TD>
+<TD>9.1</TD>
+<TD>320.6</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>Southwest</TD>
+<TD>Tanjung Pandan</TD>
+<TD>13.8</TD>
+<TD>119</TD>
+<TD>1008</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>220</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-15 18:48:09</TD>
+<TD>2015-07-15 18:48:02</TD>
+<TD>1° 17' 16.26" N</TD>
+<TD>106° 44' 28.68" E</TD>
+<TD>12.7</TD>
+<TD>11.6</TD>
+<TD>41.1</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>East</TD>
+<TD>Kijang</TD>
+<TD>6.7</TD>
+<TD>176</TD>
+<TD>1008</TD>
+<TD>0.5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>165</TD>
+<TD>0.4</TD>
+<TD>5.3</TD>
+<TD>158</TD>
+<TD>5.3</TD>
+<TD>n/a</TD>
+<TD>276.6</TD>
+</TR>
+<TR>
+<TD>MARTO</TD>
+<TD>2015-07-16 18:48:37</TD>
+<TD>2015-07-16 18:48:02</TD>
+<TD>5° 00' 58.02" N</TD>
+<TD>109° 22' 19.98" E</TD>
+<TD>9.7</TD>
+<TD>11.4</TD>
+<TD>25.2</TD>
+<TD>Standard</TD>
+<TD>137</TD>
+<TD>Northeast</TD>
+<TD>Ranai</TD>
+<TD>4.2</TD>
+<TD>131</TD>
+<TD>1008</TD>
+<TD>0.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>292</TD>
+<TD>0.3</TD>
+<TD>5.9</TD>
+<TD>298</TD>
+<TD>5.9</TD>
+<TD>n/a</TD>
+<TD>273.6</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-10 19:41:35</TD>
+<TD>2015-07-10 19:40:00</TD>
+<TD>20° 28' 00.00" N</TD>
+<TD>119° 44' 52.80" E</TD>
+<TD>11.2</TD>
+<TD> </TD>
+<TD>219</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Basco</TD>
+<TD>17.3</TD>
+<TD>231</TD>
+<TD>996</TD>
+<TD>2.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>357</TD>
+<TD>0.9</TD>
+<TD>7.2</TD>
+<TD>204</TD>
+<TD>9.1</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-11 01:41:38</TD>
+<TD>2015-07-11 01:40:00</TD>
+<TD>19° 37' 38.40" N</TD>
+<TD>119° 00' 19.20" E</TD>
+<TD>11.8</TD>
+<TD>10.9</TD>
+<TD>222</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northwest</TD>
+<TD>Pasaleng</TD>
+<TD>16</TD>
+<TD>239</TD>
+<TD>1001</TD>
+<TD>2.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>185</TD>
+<TD>0.7</TD>
+<TD>11.3</TD>
+<TD>199</TD>
+<TD>8.7</TD>
+<TD>n/a</TD>
+<TD>65.5</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-11 07:41:36</TD>
+<TD>2015-07-11 07:40:00</TD>
+<TD>18° 46' 07.20" N</TD>
+<TD>118° 15' 07.20" E</TD>
+<TD>11.4</TD>
+<TD>11.2</TD>
+<TD>220</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Currimao</TD>
+<TD>15.5</TD>
+<TD>236</TD>
+<TD>1000</TD>
+<TD>2.6</TD>
+<TD>2.4</TD>
+<TD>10.8</TD>
+<TD>89.5</TD>
+<TD>0.6</TD>
+<TD>16.3</TD>
+<TD>189</TD>
+<TD>10.9</TD>
+<TD>n/a</TD>
+<TD>66.9</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-11 13:41:28</TD>
+<TD>2015-07-11 13:40:00</TD>
+<TD>17° 55' 52.80" N</TD>
+<TD>117° 30' 36.00" E</TD>
+<TD>11.4</TD>
+<TD>10.9</TD>
+<TD>219</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Currimao</TD>
+<TD>13.2</TD>
+<TD>215</TD>
+<TD>1002</TD>
+<TD>2.1</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>282</TD>
+<TD>0.5</TD>
+<TD>5.6</TD>
+<TD>201</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>65.6</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-11 19:41:35</TD>
+<TD>2015-07-11 19:40:00</TD>
+<TD>17° 02' 45.60" N</TD>
+<TD>116° 44' 19.20" E</TD>
+<TD>11.2</TD>
+<TD>11.5</TD>
+<TD>220</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Poro Point</TD>
+<TD>17.9</TD>
+<TD>220</TD>
+<TD>1002</TD>
+<TD>2.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>35.4</TD>
+<TD>0.3</TD>
+<TD>12.5</TD>
+<TD>208</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>69.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-12 01:41:37</TD>
+<TD>2015-07-12 01:40:00</TD>
+<TD>16° 13' 09.60" N</TD>
+<TD>116° 01' 02.40" E</TD>
+<TD>10</TD>
+<TD>10.8</TD>
+<TD>219</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Masinloc</TD>
+<TD>14.9</TD>
+<TD>231</TD>
+<TD>1004</TD>
+<TD>2.5</TD>
+<TD>2.4</TD>
+<TD>9</TD>
+<TD>27.4</TD>
+<TD>0.2</TD>
+<TD>7</TD>
+<TD>206</TD>
+<TD>9</TD>
+<TD>n/a</TD>
+<TD>64.7</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-12 07:41:27</TD>
+<TD>2015-07-12 07:40:00</TD>
+<TD>15° 29' 57.60" N</TD>
+<TD>115° 20' 45.60" E</TD>
+<TD>10.2</TD>
+<TD>9.7</TD>
+<TD>208</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Masinloc</TD>
+<TD>16.4</TD>
+<TD>222</TD>
+<TD>1003</TD>
+<TD>3.1</TD>
+<TD>3.1</TD>
+<TD>9</TD>
+<TD>23.8</TD>
+<TD>0.1</TD>
+<TD>7.3</TD>
+<TD>221</TD>
+<TD>9</TD>
+<TD>n/a</TD>
+<TD>58</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-12 13:41:38</TD>
+<TD>2015-07-12 13:40:00</TD>
+<TD>14° 47' 02.40" N</TD>
+<TD>114° 46' 33.60" E</TD>
+<TD>9.4</TD>
+<TD>9</TD>
+<TD>217</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Masinloc</TD>
+<TD>12.3</TD>
+<TD>201</TD>
+<TD>1005</TD>
+<TD>2.7</TD>
+<TD>2.7</TD>
+<TD>8.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>227</TD>
+<TD>8.8</TD>
+<TD>n/a</TD>
+<TD>54.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-12 19:41:27</TD>
+<TD>2015-07-12 19:40:00</TD>
+<TD>14° 02' 14.40" N</TD>
+<TD>114° 07' 55.20" E</TD>
+<TD>9.8</TD>
+<TD>9.7</TD>
+<TD>214</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Quy Nhon</TD>
+<TD>21.2</TD>
+<TD>215</TD>
+<TD>1004</TD>
+<TD>2.6</TD>
+<TD>2.5</TD>
+<TD>8</TD>
+<TD>308</TD>
+<TD>0.4</TD>
+<TD>7.4</TD>
+<TD>230</TD>
+<TD>8</TD>
+<TD>n/a</TD>
+<TD>58.4</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-13 01:41:37</TD>
+<TD>2015-07-13 01:40:00</TD>
+<TD>13° 16' 02.40" N</TD>
+<TD>113° 28' 21.60" E</TD>
+<TD>9.8</TD>
+<TD>10</TD>
+<TD>220</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Quy Nhon</TD>
+<TD>19</TD>
+<TD>217</TD>
+<TD>1006</TD>
+<TD>2.6</TD>
+<TD>2.5</TD>
+<TD>7.8</TD>
+<TD>306</TD>
+<TD>0.3</TD>
+<TD>7.2</TD>
+<TD>230</TD>
+<TD>7.8</TD>
+<TD>n/a</TD>
+<TD>60.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-13 07:41:26</TD>
+<TD>2015-07-13 07:40:00</TD>
+<TD>12° 30' 33.60" N</TD>
+<TD>112° 49' 21.60" E</TD>
+<TD>10</TD>
+<TD>9.9</TD>
+<TD>219</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Nha Trang</TD>
+<TD>19.6</TD>
+<TD>219</TD>
+<TD>1005</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>7.3</TD>
+<TD>326</TD>
+<TD>0.2</TD>
+<TD>6.8</TD>
+<TD>235</TD>
+<TD>7.3</TD>
+<TD>n/a</TD>
+<TD>59.3</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-13 13:41:37</TD>
+<TD>2015-07-13 13:40:00</TD>
+<TD>11° 40' 09.60" N</TD>
+<TD>112° 06' 02.40" E</TD>
+<TD>11.4</TD>
+<TD>11</TD>
+<TD>221</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Nha Trang</TD>
+<TD>15.9</TD>
+<TD>215</TD>
+<TD>1005</TD>
+<TD>1.7</TD>
+<TD>1.7</TD>
+<TD>6.9</TD>
+<TD>325</TD>
+<TD>0.2</TD>
+<TD>6.4</TD>
+<TD>231</TD>
+<TD>6.9</TD>
+<TD>n/a</TD>
+<TD>65.8</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-13 19:41:35</TD>
+<TD>2015-07-13 19:40:00</TD>
+<TD>10° 47' 00.00" N</TD>
+<TD>111° 21' 09.60" E</TD>
+<TD>11</TD>
+<TD>11.5</TD>
+<TD>222</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Cam Lâm</TD>
+<TD>14.3</TD>
+<TD>236</TD>
+<TD>1006</TD>
+<TD>1.4</TD>
+<TD>1.4</TD>
+<TD>5.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>230</TD>
+<TD>5.9</TD>
+<TD>n/a</TD>
+<TD>69</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-14 01:41:46</TD>
+<TD>2015-07-14 01:40:00</TD>
+<TD>9° 55' 38.40" N</TD>
+<TD>110° 37' 48.00" E</TD>
+<TD>11</TD>
+<TD>11.1</TD>
+<TD>221</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Ruby</TD>
+<TD>14.1</TD>
+<TD>230</TD>
+<TD>1007</TD>
+<TD>1.4</TD>
+<TD>1.4</TD>
+<TD>5.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>231</TD>
+<TD>5.8</TD>
+<TD>n/a</TD>
+<TD>66.8</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-14 07:41:44</TD>
+<TD>2015-07-14 07:40:00</TD>
+<TD>9° 02' 28.80" N</TD>
+<TD>109° 52' 43.20" E</TD>
+<TD>11.4</TD>
+<TD>11.6</TD>
+<TD>220</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Dai Hung (Tandem Load)</TD>
+<TD>12.5</TD>
+<TD>235</TD>
+<TD>1006</TD>
+<TD>1</TD>
+<TD>1</TD>
+<TD>5.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>231</TD>
+<TD>5.2</TD>
+<TD>n/a</TD>
+<TD>69.3</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-14 13:41:46</TD>
+<TD>2015-07-14 13:40:00</TD>
+<TD>8° 10' 09.60" N</TD>
+<TD>109° 09' 07.20" E</TD>
+<TD>11</TD>
+<TD>11.3</TD>
+<TD>215</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Dai Hung (Tandem Load)</TD>
+<TD>12.9</TD>
+<TD>225</TD>
+<TD>1007</TD>
+<TD>0.8</TD>
+<TD>0.8</TD>
+<TD>4.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>239</TD>
+<TD>4.8</TD>
+<TD>n/a</TD>
+<TD>67.8</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-14 19:41:44</TD>
+<TD>2015-07-14 19:40:00</TD>
+<TD>7° 17' 43.20" N</TD>
+<TD>108° 26' 07.20" E</TD>
+<TD>11</TD>
+<TD>11.3</TD>
+<TD>213</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Dai Hung (Tandem Load)</TD>
+<TD>13.4</TD>
+<TD>212</TD>
+<TD>1007</TD>
+<TD>1.1</TD>
+<TD>1.1</TD>
+<TD>5.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>228</TD>
+<TD>5.3</TD>
+<TD>n/a</TD>
+<TD>67.6</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-15 01:41:46</TD>
+<TD>2015-07-15 01:40:00</TD>
+<TD>6° 23' 45.60" N</TD>
+<TD>107° 45' 52.80" E</TD>
+<TD>11</TD>
+<TD>11.2</TD>
+<TD>218</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Tandjung Gerem</TD>
+<TD>10.4</TD>
+<TD>208</TD>
+<TD>1008</TD>
+<TD>0.9</TD>
+<TD>0.8</TD>
+<TD>4.6</TD>
+<TD>293</TD>
+<TD>0.4</TD>
+<TD>5.3</TD>
+<TD>226</TD>
+<TD>4.7</TD>
+<TD>n/a</TD>
+<TD>67.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-15 07:41:35</TD>
+<TD>2015-07-15 07:40:00</TD>
+<TD>5° 29' 33.60" N</TD>
+<TD>107° 04' 26.40" E</TD>
+<TD>11.4</TD>
+<TD>11.3</TD>
+<TD>218</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Tandjung Gerem</TD>
+<TD>14.1</TD>
+<TD>221</TD>
+<TD>1007</TD>
+<TD>1.1</TD>
+<TD>1</TD>
+<TD>4.9</TD>
+<TD>297</TD>
+<TD>0.4</TD>
+<TD>5.9</TD>
+<TD>203</TD>
+<TD>5</TD>
+<TD>n/a</TD>
+<TD>68.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-15 13:41:37</TD>
+<TD>2015-07-15 13:40:00</TD>
+<TD>4° 32' 31.20" N</TD>
+<TD>106° 20' 50.40" E</TD>
+<TD>12</TD>
+<TD>11.9</TD>
+<TD>217</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Belanak Marine Terminal</TD>
+<TD>9.2</TD>
+<TD>211</TD>
+<TD>1008</TD>
+<TD>0.8</TD>
+<TD>0.7</TD>
+<TD>4.3</TD>
+<TD>309</TD>
+<TD>0.3</TD>
+<TD>5.9</TD>
+<TD>218</TD>
+<TD>4.4</TD>
+<TD>n/a</TD>
+<TD>71.7</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-15 19:41:44</TD>
+<TD>2015-07-15 19:40:00</TD>
+<TD>3° 36' 31.20" N</TD>
+<TD>105° 37' 52.80" E</TD>
+<TD>11.2</TD>
+<TD>11.8</TD>
+<TD>214</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Belida Marine Terminal</TD>
+<TD>8.6</TD>
+<TD>173</TD>
+<TD>1008</TD>
+<TD>0.5</TD>
+<TD>0.5</TD>
+<TD>5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>152</TD>
+<TD>5.1</TD>
+<TD>n/a</TD>
+<TD>70.5</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-16 01:41:46</TD>
+<TD>2015-07-16 01:40:00</TD>
+<TD>2° 40' 55.20" N</TD>
+<TD>105° 02' 12.00" E</TD>
+<TD>10.6</TD>
+<TD>11</TD>
+<TD>203</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Pulau Tioman</TD>
+<TD>10.1</TD>
+<TD>197</TD>
+<TD>1009</TD>
+<TD>0.6</TD>
+<TD>0.6</TD>
+<TD>3.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>170</TD>
+<TD>3.8</TD>
+<TD>n/a</TD>
+<TD>66</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-16 07:41:35</TD>
+<TD>2015-07-16 07:40:00</TD>
+<TD>1° 38' 57.60" N</TD>
+<TD>104° 37' 24.00" E</TD>
+<TD>11.4</TD>
+<TD>11.1</TD>
+<TD>199</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Telok Ramunia</TD>
+<TD>5</TD>
+<TD>160</TD>
+<TD>1008</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>66.7</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-16 11:31:35</TD>
+<TD>2015-07-16 11:30:00</TD>
+<TD>1° 17' 26.40" N</TD>
+<TD>104° 10' 55.20" E</TD>
+<TD>7</TD>
+<TD>8.9</TD>
+<TD>261</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Telok Ramunia</TD>
+<TD>4.3</TD>
+<TD>154</TD>
+<TD>1006</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>34.1</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-16 19:01:51</TD>
+<TD>2015-07-16 19:00:00</TD>
+<TD>1° 17' 40.80" N</TD>
+<TD>103° 59' 52.80" E</TD>
+<TD>0.2</TD>
+<TD>1.5</TD>
+<TD>79</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Pasir Ris</TD>
+<TD>6.3</TD>
+<TD>136</TD>
+<TD>1009</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>11</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-16 23:31:36</TD>
+<TD>2015-07-16 23:30:00</TD>
+<TD>1° 17' 36.00" N</TD>
+<TD>104° 00' 07.20" E</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>156</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Pasir Ris</TD>
+<TD>4.9</TD>
+<TD>143</TD>
+<TD>1007</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.3</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-17 05:31:25</TD>
+<TD>2015-07-17 05:30:00</TD>
+<TD>1° 14' 00.00" N</TD>
+<TD>103° 27' 02.40" E</TD>
+<TD>11.2</TD>
+<TD>5.5</TD>
+<TD>281</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Tanjong Bin</TD>
+<TD>3.3</TD>
+<TD>188</TD>
+<TD>1010</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>33.3</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-17 07:41:44</TD>
+<TD>2015-07-17 07:40:00</TD>
+<TD>1° 29' 04.80" N</TD>
+<TD>103° 08' 40.80" E</TD>
+<TD>11.4</TD>
+<TD>11</TD>
+<TD>311</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Tanjung Pelepas</TD>
+<TD>4.7</TD>
+<TD>172</TD>
+<TD>1009</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>23.8</TD>
+</TR>
+<TR>
+<TD>NORTH PRINCE</TD>
+<TD>2015-07-17 13:41:46</TD>
+<TD>2015-07-17 13:40:00</TD>
+<TD>2° 08' 00.00" N</TD>
+<TD>102° 03' 26.40" E</TD>
+<TD>11.4</TD>
+<TD>12.7</TD>
+<TD>310</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Malacca</TD>
+<TD>1.6</TD>
+<TD>157</TD>
+<TD>1009</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>75.9</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-10 19:21:25</TD>
+<TD>2015-07-10 19:18:00</TD>
+<TD>26° 11' 16.80" S</TD>
+<TD>48° 21' 19.20" W</TD>
+<TD>0.2</TD>
+<TD> </TD>
+<TD>143</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.2</TD>
+<TD>93.7</TD>
+<TD>1020</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-11 01:21:26</TD>
+<TD>2015-07-11 01:18:00</TD>
+<TD>26° 11' 16.80" S</TD>
+<TD>48° 21' 09.60" W</TD>
+<TD>0.6</TD>
+<TD>0</TD>
+<TD>143</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>6.7</TD>
+<TD>42.6</TD>
+<TD>1020</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.1</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-11 07:21:08</TD>
+<TD>2015-07-11 07:18:00</TD>
+<TD>26° 11' 26.40" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.6</TD>
+<TD>0</TD>
+<TD>194</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>3.9</TD>
+<TD>2.5</TD>
+<TD>1018</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.3</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-11 13:21:25</TD>
+<TD>2015-07-11 13:18:00</TD>
+<TD>26° 11' 26.40" S</TD>
+<TD>48° 21' 21.60" W</TD>
+<TD>1</TD>
+<TD>0</TD>
+<TD>207</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>1</TD>
+<TD>146</TD>
+<TD>1019</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-11 19:21:08</TD>
+<TD>2015-07-11 19:18:00</TD>
+<TD>26° 11' 26.40" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.4</TD>
+<TD>0</TD>
+<TD>226</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>8.5</TD>
+<TD>71</TD>
+<TD>1015</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-12 01:21:25</TD>
+<TD>2015-07-12 01:18:00</TD>
+<TD>26° 11' 19.20" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.4</TD>
+<TD>0</TD>
+<TD>356</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.4</TD>
+<TD>330</TD>
+<TD>1016</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.1</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-12 07:21:08</TD>
+<TD>2015-07-12 07:18:00</TD>
+<TD>26° 11' 21.60" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.2</TD>
+<TD>0</TD>
+<TD>340</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>6.3</TD>
+<TD>278</TD>
+<TD>1015</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-12 13:21:25</TD>
+<TD>2015-07-12 13:18:00</TD>
+<TD>26° 11' 24.00" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.2</TD>
+<TD>0</TD>
+<TD>299</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.8</TD>
+<TD>278</TD>
+<TD>1018</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-12 19:21:25</TD>
+<TD>2015-07-12 19:18:00</TD>
+<TD>26° 11' 19.20" S</TD>
+<TD>48° 21' 24.00" W</TD>
+<TD>0.2</TD>
+<TD>0</TD>
+<TD>152</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>10.2</TD>
+<TD>53.5</TD>
+<TD>1013</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.1</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-13 01:21:25</TD>
+<TD>2015-07-13 01:18:00</TD>
+<TD>26° 14' 07.20" S</TD>
+<TD>48° 38' 24.00" W</TD>
+<TD>1.2</TD>
+<TD>2.6</TD>
+<TD>92</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.9</TD>
+<TD>22.2</TD>
+<TD>1013</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>15.5</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-13 07:21:25</TD>
+<TD>2015-07-13 07:18:00</TD>
+<TD>26° 14' 12.00" S</TD>
+<TD>48° 38' 21.60" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>208</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>5.7</TD>
+<TD>350</TD>
+<TD>1012</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.1</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-13 13:21:08</TD>
+<TD>2015-07-13 13:18:00</TD>
+<TD>26° 14' 12.00" S</TD>
+<TD>48° 38' 21.60" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>208</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>5.1</TD>
+<TD>329</TD>
+<TD>1014</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-13 19:21:08</TD>
+<TD>2015-07-13 19:18:00</TD>
+<TD>26° 14' 12.00" S</TD>
+<TD>48° 38' 21.60" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>208</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>10.2</TD>
+<TD>42.1</TD>
+<TD>1010</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-14 01:21:25</TD>
+<TD>2015-07-14 01:18:00</TD>
+<TD>26° 14' 12.00" S</TD>
+<TD>48° 38' 21.60" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>208</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>8.3</TD>
+<TD>21.2</TD>
+<TD>1012</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-14 07:21:25</TD>
+<TD>2015-07-14 07:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>6.2</TD>
+<TD>354</TD>
+<TD>1012</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0.1</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-14 13:21:26</TD>
+<TD>2015-07-14 13:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>5</TD>
+<TD>329</TD>
+<TD>1015</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-14 19:21:08</TD>
+<TD>2015-07-14 19:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>7.9</TD>
+<TD>36.5</TD>
+<TD>1013</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-15 01:21:08</TD>
+<TD>2015-07-15 01:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>3.4</TD>
+<TD>359</TD>
+<TD>1016</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-15 07:21:08</TD>
+<TD>2015-07-15 07:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.3</TD>
+<TD>218</TD>
+<TD>1017</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-15 13:21:08</TD>
+<TD>2015-07-15 13:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>11.2</TD>
+<TD>179</TD>
+<TD>1021</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-15 19:21:26</TD>
+<TD>2015-07-15 19:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>13.2</TD>
+<TD>183</TD>
+<TD>1020</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-16 01:21:08</TD>
+<TD>2015-07-16 01:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>6.9</TD>
+<TD>174</TD>
+<TD>1021</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-16 07:21:29</TD>
+<TD>2015-07-16 07:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>8.3</TD>
+<TD>187</TD>
+<TD>1020</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-16 13:21:12</TD>
+<TD>2015-07-16 13:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.8</TD>
+<TD>204</TD>
+<TD>1022</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-16 19:21:12</TD>
+<TD>2015-07-16 19:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>6.7</TD>
+<TD>131</TD>
+<TD>1021</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-17 01:21:12</TD>
+<TD>2015-07-17 01:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>3.8</TD>
+<TD>115</TD>
+<TD>1022</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-17 07:21:12</TD>
+<TD>2015-07-17 07:18:00</TD>
+<TD>26° 14' 14.40" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>3.5</TD>
+<TD>168</TD>
+<TD>1022</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>MARJATTA P</TD>
+<TD>2015-07-17 13:21:29</TD>
+<TD>2015-07-17 13:18:00</TD>
+<TD>26° 14' 16.80" S</TD>
+<TD>48° 38' 16.80" W</TD>
+<TD>0</TD>
+<TD>0</TD>
+<TD>192</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD>Sao Francisco do Sul</TD>
+<TD>4.9</TD>
+<TD>155</TD>
+<TD>1023</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>n/a</TD>
+<TD>0</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-10 18:44:54</TD>
+<TD>2015-07-10 18:44:00</TD>
+<TD>43° 13' 24.00" N</TD>
+<TD>175° 39' 57.60" W</TD>
+<TD>12.4</TD>
+<TD> </TD>
+<TD>87</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>17.3</TD>
+<TD>232</TD>
+<TD>1016</TD>
+<TD>2.6</TD>
+<TD>2.6</TD>
+<TD>9.1</TD>
+<TD>123</TD>
+<TD>0.3</TD>
+<TD>10</TD>
+<TD>261</TD>
+<TD>9.1</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-11 00:44:37</TD>
+<TD>2015-07-11 00:42:00</TD>
+<TD>43° 17' 55.20" N</TD>
+<TD>174° 00' 07.20" W</TD>
+<TD>11.8</TD>
+<TD>12.2</TD>
+<TD>83</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>17.2</TD>
+<TD>228</TD>
+<TD>1016</TD>
+<TD>2.5</TD>
+<TD>2.4</TD>
+<TD>9.1</TD>
+<TD>125</TD>
+<TD>0.3</TD>
+<TD>10.1</TD>
+<TD>263</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>72.8</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-11 06:44:11</TD>
+<TD>2015-07-11 06:42:00</TD>
+<TD>43° 22' 07.20" N</TD>
+<TD>172° 19' 21.60" W</TD>
+<TD>12.6</TD>
+<TD>12.2</TD>
+<TD>85</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>14.9</TD>
+<TD>222</TD>
+<TD>1018</TD>
+<TD>2.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>257</TD>
+<TD>2.2</TD>
+<TD>9.2</TD>
+<TD>264</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>73.4</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-11 12:44:03</TD>
+<TD>2015-07-11 12:42:00</TD>
+<TD>43° 26' 45.60" N</TD>
+<TD>170° 35' 19.20" W</TD>
+<TD>12.2</TD>
+<TD>12.6</TD>
+<TD>85</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>9.3</TD>
+<TD>206</TD>
+<TD>1017</TD>
+<TD>2.1</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>258</TD>
+<TD>2</TD>
+<TD>9.2</TD>
+<TD>265</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>75.7</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-11 18:44:11</TD>
+<TD>2015-07-11 18:42:00</TD>
+<TD>43° 25' 21.60" N</TD>
+<TD>168° 54' 38.40" W</TD>
+<TD>11.8</TD>
+<TD>12.2</TD>
+<TD>92</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>7.7</TD>
+<TD>229</TD>
+<TD>1018</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>263</TD>
+<TD>1.8</TD>
+<TD>9.2</TD>
+<TD>265</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>73.1</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-12 00:44:11</TD>
+<TD>2015-07-12 00:42:00</TD>
+<TD>43° 21' 02.40" N</TD>
+<TD>167° 16' 09.60" W</TD>
+<TD>12.2</TD>
+<TD>11.9</TD>
+<TD>93</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>7.8</TD>
+<TD>236</TD>
+<TD>1018</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>270</TD>
+<TD>1.6</TD>
+<TD>9.2</TD>
+<TD>267</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>71.7</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-12 06:44:29</TD>
+<TD>2015-07-12 06:42:00</TD>
+<TD>43° 16' 16.80" N</TD>
+<TD>165° 29' 09.60" W</TD>
+<TD>13.4</TD>
+<TD>13</TD>
+<TD>94</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>12.1</TD>
+<TD>239</TD>
+<TD>1020</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>257</TD>
+<TD>1.8</TD>
+<TD>9.3</TD>
+<TD>268</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD>78</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-12 12:44:28</TD>
+<TD>2015-07-12 12:42:00</TD>
+<TD>43° 11' 36.00" N</TD>
+<TD>163° 43' 40.80" W</TD>
+<TD>12.4</TD>
+<TD>12.8</TD>
+<TD>94</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>8.6</TD>
+<TD>256</TD>
+<TD>1019</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>258</TD>
+<TD>1.8</TD>
+<TD>9.2</TD>
+<TD>268</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD>77</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-12 18:44:02</TD>
+<TD>2015-07-12 18:42:00</TD>
+<TD>43° 07' 19.20" N</TD>
+<TD>162° 04' 04.80" W</TD>
+<TD>12</TD>
+<TD>12.1</TD>
+<TD>93</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>7.4</TD>
+<TD>265</TD>
+<TD>1021</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>261</TD>
+<TD>1.7</TD>
+<TD>9.1</TD>
+<TD>266</TD>
+<TD>9.4</TD>
+<TD>n/a</TD>
+<TD>72.8</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-13 00:44:46</TD>
+<TD>2015-07-13 00:44:00</TD>
+<TD>43° 02' 50.40" N</TD>
+<TD>160° 24' 43.20" W</TD>
+<TD>12.4</TD>
+<TD>12.1</TD>
+<TD>94</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>15.1</TD>
+<TD>245</TD>
+<TD>1020</TD>
+<TD>2.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>249</TD>
+<TD>0.5</TD>
+<TD>11</TD>
+<TD>264</TD>
+<TD>9.6</TD>
+<TD>n/a</TD>
+<TD>72.7</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-13 06:44:28</TD>
+<TD>2015-07-13 06:42:00</TD>
+<TD>42° 51' 45.60" N</TD>
+<TD>158° 44' 40.80" W</TD>
+<TD>12.2</TD>
+<TD>12.4</TD>
+<TD>99</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>16.1</TD>
+<TD>246</TD>
+<TD>1022</TD>
+<TD>2.4</TD>
+<TD>2.2</TD>
+<TD>8.8</TD>
+<TD>142</TD>
+<TD>0.6</TD>
+<TD>11.5</TD>
+<TD>264</TD>
+<TD>9.4</TD>
+<TD>n/a</TD>
+<TD>74.1</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-13 12:45:29</TD>
+<TD>2015-07-13 12:42:00</TD>
+<TD>42° 38' 33.60" N</TD>
+<TD>157° 05' 33.60" W</TD>
+<TD>12</TD>
+<TD>12.3</TD>
+<TD>99</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>18.7</TD>
+<TD>245</TD>
+<TD>1023</TD>
+<TD>2.3</TD>
+<TD>2.1</TD>
+<TD>8.8</TD>
+<TD>143</TD>
+<TD>0.7</TD>
+<TD>10.2</TD>
+<TD>259</TD>
+<TD>9.5</TD>
+<TD>n/a</TD>
+<TD>74</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-13 18:44:54</TD>
+<TD>2015-07-13 18:44:00</TD>
+<TD>42° 25' 12.00" N</TD>
+<TD>155° 26' 43.20" W</TD>
+<TD>12.6</TD>
+<TD>12.3</TD>
+<TD>100</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>15.9</TD>
+<TD>246</TD>
+<TD>1025</TD>
+<TD>2.2</TD>
+<TD>1.9</TD>
+<TD>8.9</TD>
+<TD>146</TD>
+<TD>0.6</TD>
+<TD>9.6</TD>
+<TD>258</TD>
+<TD>9.5</TD>
+<TD>n/a</TD>
+<TD>74</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-14 00:45:03</TD>
+<TD>2015-07-14 00:44:00</TD>
+<TD>42° 11' 24.00" N</TD>
+<TD>153° 44' 00.00" W</TD>
+<TD>13.2</TD>
+<TD>12.9</TD>
+<TD>99</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>14.8</TD>
+<TD>247</TD>
+<TD>1025</TD>
+<TD>2.1</TD>
+<TD>1.8</TD>
+<TD>9.1</TD>
+<TD>298</TD>
+<TD>0.5</TD>
+<TD>11.4</TD>
+<TD>269</TD>
+<TD>9.1</TD>
+<TD>n/a</TD>
+<TD>77.2</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-14 06:44:37</TD>
+<TD>2015-07-14 06:42:00</TD>
+<TD>41° 57' 26.40" N</TD>
+<TD>152° 01' 31.20" W</TD>
+<TD>12.6</TD>
+<TD>13</TD>
+<TD>100</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>13.4</TD>
+<TD>255</TD>
+<TD>1027</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>298</TD>
+<TD>0.6</TD>
+<TD>11.3</TD>
+<TD>275</TD>
+<TD>9.1</TD>
+<TD>n/a</TD>
+<TD>77.3</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-14 12:44:11</TD>
+<TD>2015-07-14 12:42:00</TD>
+<TD>41° 44' 19.20" N</TD>
+<TD>150° 23' 57.60" W</TD>
+<TD>12</TD>
+<TD>12.3</TD>
+<TD>100</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>13.8</TD>
+<TD>253</TD>
+<TD>1026</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>282</TD>
+<TD>1.7</TD>
+<TD>9.4</TD>
+<TD>283</TD>
+<TD>10.4</TD>
+<TD>n/a</TD>
+<TD>73.8</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-14 18:44:54</TD>
+<TD>2015-07-14 18:44:00</TD>
+<TD>41° 25' 19.20" N</TD>
+<TD>148° 50' 28.80" W</TD>
+<TD>12</TD>
+<TD>12</TD>
+<TD>105</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>12.8</TD>
+<TD>263</TD>
+<TD>1028</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>284</TD>
+<TD>1.7</TD>
+<TD>10.5</TD>
+<TD>284</TD>
+<TD>10.5</TD>
+<TD>n/a</TD>
+<TD>72.5</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-15 00:45:12</TD>
+<TD>2015-07-15 00:44:00</TD>
+<TD>41° 03' 31.20" N</TD>
+<TD>147° 16' 02.40" W</TD>
+<TD>12.6</TD>
+<TD>12.4</TD>
+<TD>106</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>4.9</TD>
+<TD>267</TD>
+<TD>1028</TD>
+<TD>1.7</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>293</TD>
+<TD>1.5</TD>
+<TD>10.3</TD>
+<TD>287</TD>
+<TD>10.5</TD>
+<TD>n/a</TD>
+<TD>74.3</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-15 06:44:46</TD>
+<TD>2015-07-15 06:44:00</TD>
+<TD>40° 42' 00.00" N</TD>
+<TD>145° 42' 45.60" W</TD>
+<TD>12.4</TD>
+<TD>12.3</TD>
+<TD>106</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>8</TD>
+<TD>297</TD>
+<TD>1030</TD>
+<TD>1.7</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>294</TD>
+<TD>1.4</TD>
+<TD>10.3</TD>
+<TD>288</TD>
+<TD>10.5</TD>
+<TD>n/a</TD>
+<TD>73.7</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-15 12:48:30</TD>
+<TD>2015-07-15 12:44:00</TD>
+<TD>40° 20' 31.20" N</TD>
+<TD>144° 10' 14.40" W</TD>
+<TD>12</TD>
+<TD>12.3</TD>
+<TD>106</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>6</TD>
+<TD>289</TD>
+<TD>1028</TD>
+<TD>1.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>297</TD>
+<TD>1.4</TD>
+<TD>10.1</TD>
+<TD>289</TD>
+<TD>10.4</TD>
+<TD>n/a</TD>
+<TD>73.5</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-15 18:44:54</TD>
+<TD>2015-07-15 18:44:00</TD>
+<TD>39° 59' 12.00" N</TD>
+<TD>142° 38' 55.20" W</TD>
+<TD>12.2</TD>
+<TD>12.2</TD>
+<TD>107</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>8.1</TD>
+<TD>329</TD>
+<TD>1031</TD>
+<TD>1.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>298</TD>
+<TD>1.3</TD>
+<TD>10</TD>
+<TD>290</TD>
+<TD>10.4</TD>
+<TD>n/a</TD>
+<TD>73</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-16 00:44:11</TD>
+<TD>2015-07-16 00:42:00</TD>
+<TD>39° 38' 09.60" N</TD>
+<TD>141° 09' 09.60" W</TD>
+<TD>12.2</TD>
+<TD>12.1</TD>
+<TD>108</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>11</TD>
+<TD>30.5</TD>
+<TD>1029</TD>
+<TD>1.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>314</TD>
+<TD>1.4</TD>
+<TD>10.2</TD>
+<TD>291</TD>
+<TD>10.4</TD>
+<TD>n/a</TD>
+<TD>72.1</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-16 12:44:41</TD>
+<TD>2015-07-16 12:44:00</TD>
+<TD>38° 44' 21.60" N</TD>
+<TD>138° 07' 38.40" W</TD>
+<TD>12.6</TD>
+<TD>12.5</TD>
+<TD>113</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>11.1</TD>
+<TD>21.6</TD>
+<TD>1029</TD>
+<TD>1.5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>298</TD>
+<TD>1.1</TD>
+<TD>10.1</TD>
+<TD>289</TD>
+<TD>10.1</TD>
+<TD>n/a</TD>
+<TD>150.6</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-16 14:21:53</TD>
+<TD>2015-07-16 14:20:00</TD>
+<TD>38° 36' 24.00" N</TD>
+<TD>137° 44' 14.40" W</TD>
+<TD>12.2</TD>
+<TD>12.5</TD>
+<TD>113</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>11.1</TD>
+<TD>21.6</TD>
+<TD>1029</TD>
+<TD>1.5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>298</TD>
+<TD>1.1</TD>
+<TD>10.1</TD>
+<TD>289</TD>
+<TD>10.1</TD>
+<TD>n/a</TD>
+<TD>19.9</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-16 18:45:15</TD>
+<TD>2015-07-16 18:44:00</TD>
+<TD>38° 14' 28.80" N</TD>
+<TD>136° 39' 31.20" W</TD>
+<TD>12.4</TD>
+<TD>12.6</TD>
+<TD>113</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>14</TD>
+<TD>22.8</TD>
+<TD>1030</TD>
+<TD>1.8</TD>
+<TD>1.1</TD>
+<TD>4.9</TD>
+<TD>301</TD>
+<TD>0.9</TD>
+<TD>10.2</TD>
+<TD>253</TD>
+<TD>14.9</TD>
+<TD>n/a</TD>
+<TD>55.2</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-17 00:44:32</TD>
+<TD>2015-07-17 00:42:00</TD>
+<TD>37° 45' 21.60" N</TD>
+<TD>135° 14' 00.00" W</TD>
+<TD>12.4</TD>
+<TD>12.3</TD>
+<TD>113</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>15.2</TD>
+<TD>20.6</TD>
+<TD>1027</TD>
+<TD>2</TD>
+<TD>1.4</TD>
+<TD>5.7</TD>
+<TD>302</TD>
+<TD>0.9</TD>
+<TD>10.1</TD>
+<TD>249</TD>
+<TD>14.5</TD>
+<TD>n/a</TD>
+<TD>73.4</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-17 06:46:50</TD>
+<TD>2015-07-17 06:44:00</TD>
+<TD>37° 17' 07.20" N</TD>
+<TD>133° 51' 19.20" W</TD>
+<TD>11.4</TD>
+<TD>11.8</TD>
+<TD>113</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Newport</TD>
+<TD>18.9</TD>
+<TD>17.7</TD>
+<TD>1028</TD>
+<TD>2.5</TD>
+<TD>2.1</TD>
+<TD>6.7</TD>
+<TD>302</TD>
+<TD>0.8</TD>
+<TD>10.1</TD>
+<TD>41.4</TD>
+<TD>6.8</TD>
+<TD>n/a</TD>
+<TD>71.4</TD>
+</TR>
+<TR>
+<TD>PHOENIX RISING</TD>
+<TD>2015-07-17 12:43:58</TD>
+<TD>2015-07-17 12:42:00</TD>
+<TD>36° 51' 14.40" N</TD>
+<TD>132° 36' 07.20" W</TD>
+<TD>10.6</TD>
+<TD>11</TD>
+<TD>112</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Newport</TD>
+<TD>20.6</TD>
+<TD>21.9</TD>
+<TD>1022</TD>
+<TD>3</TD>
+<TD>2.8</TD>
+<TD>8.2</TD>
+<TD>301</TD>
+<TD>0.7</TD>
+<TD>10</TD>
+<TD>43.1</TD>
+<TD>8.4</TD>
+<TD>n/a</TD>
+<TD>65.3</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-10 16:27:24</TD>
+<TD>2015-07-10 16:26:00</TD>
+<TD>19° 33' 02.40" S</TD>
+<TD>4° 33' 12.00" E</TD>
+<TD>13</TD>
+<TD> </TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Baía dos Tigres</TD>
+<TD>10.8</TD>
+<TD>162</TD>
+<TD>1018</TD>
+<TD>2.4</TD>
+<TD>1.7</TD>
+<TD>8.6</TD>
+<TD>206</TD>
+<TD>1.4</TD>
+<TD>15.3</TD>
+<TD>205</TD>
+<TD>15.3</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-10 22:27:41</TD>
+<TD>2015-07-10 22:26:00</TD>
+<TD>18° 33' 19.20" S</TD>
+<TD>3° 42' 09.60" E</TD>
+<TD>12.6</TD>
+<TD>12.8</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Baía dos Tigres</TD>
+<TD>10.1</TD>
+<TD>161</TD>
+<TD>1018</TD>
+<TD>2.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>149</TD>
+<TD>1.5</TD>
+<TD>8.8</TD>
+<TD>205</TD>
+<TD>14.6</TD>
+<TD>n/a</TD>
+<TD>76.8</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-11 04:28:16</TD>
+<TD>2015-07-11 04:26:00</TD>
+<TD>17° 34' 26.40" S</TD>
+<TD>2° 52' 12.00" E</TD>
+<TD>12.6</TD>
+<TD>12.6</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>11.5</TD>
+<TD>158</TD>
+<TD>1019</TD>
+<TD>2.1</TD>
+<TD>1.5</TD>
+<TD>8.5</TD>
+<TD>207</TD>
+<TD>1.4</TD>
+<TD>14.1</TD>
+<TD>205</TD>
+<TD>14.1</TD>
+<TD>n/a</TD>
+<TD>75.6</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-11 08:40:23</TD>
+<TD>2015-07-11 08:38:00</TD>
+<TD>16° 53' 09.60" S</TD>
+<TD>2° 17' 24.00" E</TD>
+<TD>12.4</TD>
+<TD>12.6</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Jamestown</TD>
+<TD>11.6</TD>
+<TD>161</TD>
+<TD>1019</TD>
+<TD>2</TD>
+<TD>1.5</TD>
+<TD>8.5</TD>
+<TD>209</TD>
+<TD>1.4</TD>
+<TD>13.8</TD>
+<TD>205</TD>
+<TD>13.7</TD>
+<TD>n/a</TD>
+<TD>53</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-11 14:40:40</TD>
+<TD>2015-07-11 14:40:00</TD>
+<TD>15° 54' 26.40" S</TD>
+<TD>1° 28' 02.40" E</TD>
+<TD>12.4</TD>
+<TD>12.5</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Jamestown</TD>
+<TD>12.6</TD>
+<TD>151</TD>
+<TD>1020</TD>
+<TD>1.9</TD>
+<TD>1.4</TD>
+<TD>8.5</TD>
+<TD>208</TD>
+<TD>1.3</TD>
+<TD>13.2</TD>
+<TD>204</TD>
+<TD>13.2</TD>
+<TD>n/a</TD>
+<TD>75.4</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-11 20:41:15</TD>
+<TD>2015-07-11 20:40:00</TD>
+<TD>14° 54' 48.00" S</TD>
+<TD>0° 38' 16.80" E</TD>
+<TD>12.6</TD>
+<TD>12.8</TD>
+<TD>318</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Jamestown</TD>
+<TD>14.6</TD>
+<TD>151</TD>
+<TD>1018</TD>
+<TD>1.9</TD>
+<TD>1.5</TD>
+<TD>8.5</TD>
+<TD>208</TD>
+<TD>1.2</TD>
+<TD>12.8</TD>
+<TD>204</TD>
+<TD>12.7</TD>
+<TD>n/a</TD>
+<TD>76.5</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-12 02:40:40</TD>
+<TD>2015-07-12 02:40:00</TD>
+<TD>13° 56' 02.40" S</TD>
+<TD>0° 10' 43.20" W</TD>
+<TD>12.4</TD>
+<TD>12.6</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Jamestown</TD>
+<TD>14.5</TD>
+<TD>139</TD>
+<TD>1019</TD>
+<TD>1.9</TD>
+<TD>1.6</TD>
+<TD>8.5</TD>
+<TD>207</TD>
+<TD>1.1</TD>
+<TD>12.6</TD>
+<TD>203</TD>
+<TD>12.6</TD>
+<TD>n/a</TD>
+<TD>75.5</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-12 08:40:40</TD>
+<TD>2015-07-12 08:38:00</TD>
+<TD>12° 57' 02.40" S</TD>
+<TD>0° 59' 40.80" W</TD>
+<TD>12.4</TD>
+<TD>12.7</TD>
+<TD>318</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Jamestown</TD>
+<TD>14.5</TD>
+<TD>136</TD>
+<TD>1019</TD>
+<TD>1.8</TD>
+<TD>1.5</TD>
+<TD>8.4</TD>
+<TD>206</TD>
+<TD>1</TD>
+<TD>12.3</TD>
+<TD>203</TD>
+<TD>12.3</TD>
+<TD>n/a</TD>
+<TD>75.8</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-12 14:40:06</TD>
+<TD>2015-07-12 14:38:00</TD>
+<TD>11° 59' 04.80" S</TD>
+<TD>1° 47' 36.00" W</TD>
+<TD>12.4</TD>
+<TD>12.4</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Jamestown</TD>
+<TD>14.5</TD>
+<TD>134</TD>
+<TD>1019</TD>
+<TD>1.8</TD>
+<TD>1.6</TD>
+<TD>8.3</TD>
+<TD>206</TD>
+<TD>0.9</TD>
+<TD>12.2</TD>
+<TD>202</TD>
+<TD>12.2</TD>
+<TD>n/a</TD>
+<TD>74.5</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-12 20:40:57</TD>
+<TD>2015-07-12 20:38:00</TD>
+<TD>11° 00' 04.80" S</TD>
+<TD>2° 36' 07.20" W</TD>
+<TD>12.4</TD>
+<TD>12.6</TD>
+<TD>321</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Jamestown</TD>
+<TD>16.1</TD>
+<TD>144</TD>
+<TD>1016</TD>
+<TD>1.8</TD>
+<TD>1.7</TD>
+<TD>7</TD>
+<TD>205</TD>
+<TD>0.8</TD>
+<TD>11.8</TD>
+<TD>201</TD>
+<TD>11.8</TD>
+<TD>n/a</TD>
+<TD>75.8</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-13 02:40:40</TD>
+<TD>2015-07-13 02:40:00</TD>
+<TD>10° 01' 19.20" S</TD>
+<TD>3° 24' 16.80" W</TD>
+<TD>12.4</TD>
+<TD>12.5</TD>
+<TD>321</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Jamestown</TD>
+<TD>16.6</TD>
+<TD>140</TD>
+<TD>1017</TD>
+<TD>1.9</TD>
+<TD>1.8</TD>
+<TD>6.8</TD>
+<TD>205</TD>
+<TD>0.8</TD>
+<TD>11.7</TD>
+<TD>144</TD>
+<TD>6.9</TD>
+<TD>n/a</TD>
+<TD>75.5</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-13 08:40:14</TD>
+<TD>2015-07-13 08:38:00</TD>
+<TD>9° 02' 38.40" S</TD>
+<TD>4° 12' 14.40" W</TD>
+<TD>12.4</TD>
+<TD>12.6</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Jamestown</TD>
+<TD>17.1</TD>
+<TD>141</TD>
+<TD>1016</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>7.2</TD>
+<TD>205</TD>
+<TD>0.7</TD>
+<TD>11.7</TD>
+<TD>145</TD>
+<TD>7.2</TD>
+<TD>n/a</TD>
+<TD>75.4</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-13 14:40:58</TD>
+<TD>2015-07-13 14:40:00</TD>
+<TD>8° 04' 02.40" S</TD>
+<TD>5° 00' 07.20" W</TD>
+<TD>12.4</TD>
+<TD>12.5</TD>
+<TD>321</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Jamestown</TD>
+<TD>16.6</TD>
+<TD>138</TD>
+<TD>1017</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>7.5</TD>
+<TD>203</TD>
+<TD>0.7</TD>
+<TD>11.6</TD>
+<TD>148</TD>
+<TD>7.5</TD>
+<TD>n/a</TD>
+<TD>75.3</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-13 20:40:49</TD>
+<TD>2015-07-13 20:38:00</TD>
+<TD>7° 04' 57.60" S</TD>
+<TD>5° 48' 04.80" W</TD>
+<TD>12.6</TD>
+<TD>12.7</TD>
+<TD>322</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>18.1</TD>
+<TD>146</TD>
+<TD>1014</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>7.6</TD>
+<TD>203</TD>
+<TD>0.6</TD>
+<TD>11.1</TD>
+<TD>145</TD>
+<TD>7.6</TD>
+<TD>n/a</TD>
+<TD>75.8</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-14 02:41:06</TD>
+<TD>2015-07-14 02:40:00</TD>
+<TD>6° 04' 45.60" S</TD>
+<TD>6° 37' 04.80" W</TD>
+<TD>12.4</TD>
+<TD>12.8</TD>
+<TD>321</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Ascension</TD>
+<TD>16.4</TD>
+<TD>146</TD>
+<TD>1016</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>7.9</TD>
+<TD>203</TD>
+<TD>0.5</TD>
+<TD>11.1</TD>
+<TD>150</TD>
+<TD>7.9</TD>
+<TD>n/a</TD>
+<TD>77.4</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-14 08:40:58</TD>
+<TD>2015-07-14 08:40:00</TD>
+<TD>5° 04' 04.80" S</TD>
+<TD>7° 25' 57.60" W</TD>
+<TD>12.6</TD>
+<TD>13</TD>
+<TD>318</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Ascension</TD>
+<TD>16.1</TD>
+<TD>144</TD>
+<TD>1014</TD>
+<TD>2</TD>
+<TD>1.9</TD>
+<TD>8.2</TD>
+<TD>202</TD>
+<TD>0.5</TD>
+<TD>11</TD>
+<TD>150</TD>
+<TD>8.2</TD>
+<TD>n/a</TD>
+<TD>77.8</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-14 14:40:58</TD>
+<TD>2015-07-14 14:40:00</TD>
+<TD>4° 04' 31.20" S</TD>
+<TD>8° 14' 24.00" W</TD>
+<TD>12.4</TD>
+<TD>12.8</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Ascension</TD>
+<TD>16.1</TD>
+<TD>145</TD>
+<TD>1016</TD>
+<TD>2</TD>
+<TD>1.9</TD>
+<TD>8.1</TD>
+<TD>186</TD>
+<TD>0.4</TD>
+<TD>16.7</TD>
+<TD>149</TD>
+<TD>8.1</TD>
+<TD>n/a</TD>
+<TD>76.7</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-14 20:40:14</TD>
+<TD>2015-07-14 20:40:00</TD>
+<TD>3° 05' 04.80" S</TD>
+<TD>9° 02' 33.60" W</TD>
+<TD>12.6</TD>
+<TD>12.7</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Northeast</TD>
+<TD>Ascension</TD>
+<TD>13.3</TD>
+<TD>143</TD>
+<TD>1013</TD>
+<TD>1.9</TD>
+<TD>1.8</TD>
+<TD>8.3</TD>
+<TD>184</TD>
+<TD>0.4</TD>
+<TD>16.4</TD>
+<TD>152</TD>
+<TD>8.3</TD>
+<TD>n/a</TD>
+<TD>76.4</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-15 02:40:40</TD>
+<TD>2015-07-15 02:40:00</TD>
+<TD>2° 04' 50.40" S</TD>
+<TD>9° 50' 55.20" W</TD>
+<TD>13</TD>
+<TD>12.9</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Cape Palmas</TD>
+<TD>10.8</TD>
+<TD>136</TD>
+<TD>1016</TD>
+<TD>1.8</TD>
+<TD>1.7</TD>
+<TD>8.4</TD>
+<TD>183</TD>
+<TD>0.4</TD>
+<TD>15.9</TD>
+<TD>153</TD>
+<TD>8.4</TD>
+<TD>n/a</TD>
+<TD>77.2</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-15 08:40:06</TD>
+<TD>2015-07-15 08:38:00</TD>
+<TD>1° 03' 14.40" S</TD>
+<TD>10° 40' 40.80" W</TD>
+<TD>13.2</TD>
+<TD>13.3</TD>
+<TD>322</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Cape Palmas</TD>
+<TD>10.7</TD>
+<TD>143</TD>
+<TD>1012</TD>
+<TD>1.8</TD>
+<TD>1.7</TD>
+<TD>8.4</TD>
+<TD>183</TD>
+<TD>0.4</TD>
+<TD>15.3</TD>
+<TD>153</TD>
+<TD>8.4</TD>
+<TD>n/a</TD>
+<TD>79.2</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-15 14:39:57</TD>
+<TD>2015-07-15 14:38:00</TD>
+<TD>0° 00' 36.00" N</TD>
+<TD>11° 32' 12.00" W</TD>
+<TD>13.8</TD>
+<TD>13.7</TD>
+<TD>319</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Greenville</TD>
+<TD>10.5</TD>
+<TD>141</TD>
+<TD>1015</TD>
+<TD>1.8</TD>
+<TD>1.7</TD>
+<TD>8.5</TD>
+<TD>182</TD>
+<TD>0.4</TD>
+<TD>14.9</TD>
+<TD>153</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>82</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-15 20:41:23</TD>
+<TD>2015-07-15 20:40:00</TD>
+<TD>1° 07' 43.20" N</TD>
+<TD>12° 26' 19.20" W</TD>
+<TD>14.2</TD>
+<TD>14.3</TD>
+<TD>322</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Greenville</TD>
+<TD>13.4</TD>
+<TD>156</TD>
+<TD>1011</TD>
+<TD>1.8</TD>
+<TD>1.8</TD>
+<TD>8.5</TD>
+<TD>181</TD>
+<TD>0.4</TD>
+<TD>14.6</TD>
+<TD>155</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>86.2</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-16 02:41:06</TD>
+<TD>2015-07-16 02:40:00</TD>
+<TD>2° 16' 00.00" N</TD>
+<TD>13° 21' 16.80" W</TD>
+<TD>14.6</TD>
+<TD>14.6</TD>
+<TD>321</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Monrovia</TD>
+<TD>15.6</TD>
+<TD>168</TD>
+<TD>1016</TD>
+<TD>1.9</TD>
+<TD>1.8</TD>
+<TD>8.5</TD>
+<TD>181</TD>
+<TD>0.3</TD>
+<TD>14.5</TD>
+<TD>155</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>87.6</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-16 08:40:49</TD>
+<TD>2015-07-16 08:40:00</TD>
+<TD>3° 23' 04.80" N</TD>
+<TD>14° 15' 09.60" W</TD>
+<TD>13.6</TD>
+<TD>14.3</TD>
+<TD>317</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Sherbro Island</TD>
+<TD>15.2</TD>
+<TD>159</TD>
+<TD>1012</TD>
+<TD>1.9</TD>
+<TD>1.8</TD>
+<TD>8.5</TD>
+<TD>181</TD>
+<TD>0.3</TD>
+<TD>13.8</TD>
+<TD>153</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>86</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-16 14:40:23</TD>
+<TD>2015-07-16 14:38:00</TD>
+<TD>4° 22' 09.60" N</TD>
+<TD>15° 03' 16.80" W</TD>
+<TD>12.2</TD>
+<TD>12.8</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Sherbro Island</TD>
+<TD>15.9</TD>
+<TD>164</TD>
+<TD>1015</TD>
+<TD>1.9</TD>
+<TD>1.8</TD>
+<TD>8.4</TD>
+<TD>180</TD>
+<TD>0.3</TD>
+<TD>13.6</TD>
+<TD>155</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>76.1</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-16 20:40:05</TD>
+<TD>2015-07-16 20:38:00</TD>
+<TD>5° 20' 16.80" N</TD>
+<TD>15° 49' 40.80" W</TD>
+<TD>12.4</TD>
+<TD>12.4</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Sherbro Island</TD>
+<TD>5.8</TD>
+<TD>186</TD>
+<TD>1012</TD>
+<TD>2.1</TD>
+<TD>2</TD>
+<TD>8.3</TD>
+<TD>342</TD>
+<TD>0.3</TD>
+<TD>8.6</TD>
+<TD>155</TD>
+<TD>8.3</TD>
+<TD>n/a</TD>
+<TD>74.3</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-17 02:40:40</TD>
+<TD>2015-07-17 02:38:00</TD>
+<TD>6° 18' 26.40" N</TD>
+<TD>16° 37' 26.40" W</TD>
+<TD>12.6</TD>
+<TD>12.5</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Freetown</TD>
+<TD>11.6</TD>
+<TD>173</TD>
+<TD>1015</TD>
+<TD>2</TD>
+<TD>2</TD>
+<TD>8.4</TD>
+<TD>342</TD>
+<TD>0.3</TD>
+<TD>8.6</TD>
+<TD>154</TD>
+<TD>8.4</TD>
+<TD>n/a</TD>
+<TD>75.1</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-17 08:40:23</TD>
+<TD>2015-07-17 08:38:00</TD>
+<TD>7° 17' 02.40" N</TD>
+<TD>17° 25' 07.20" W</TD>
+<TD>12.6</TD>
+<TD>12.6</TD>
+<TD>320</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Conakry</TD>
+<TD>9.5</TD>
+<TD>230</TD>
+<TD>1012</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>166</TD>
+<TD>1.9</TD>
+<TD>8.4</TD>
+<TD>154</TD>
+<TD>8.4</TD>
+<TD>n/a</TD>
+<TD>75.3</TD>
+</TR>
+<TR>
+<TD>ANTOINE</TD>
+<TD>2015-07-17 14:41:32</TD>
+<TD>2015-07-17 14:40:00</TD>
+<TD>8° 23' 45.60" N</TD>
+<TD>17° 58' 50.40" W</TD>
+<TD>12.8</TD>
+<TD>12.4</TD>
+<TD>342</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Bubaque</TD>
+<TD>11.5</TD>
+<TD>207</TD>
+<TD>1017</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>168</TD>
+<TD>1.7</TD>
+<TD>8.5</TD>
+<TD>157</TD>
+<TD>8.5</TD>
+<TD>n/a</TD>
+<TD>74.6</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-10 21:21:01</TD>
+<TD>2015-07-10 21:18:00</TD>
+<TD>5° 20' 14.40" N</TD>
+<TD>98° 16' 12.00" E</TD>
+<TD>12.2</TD>
+<TD> </TD>
+<TD>311</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Kuala Langsa</TD>
+<TD>7.6</TD>
+<TD>209</TD>
+<TD>1010</TD>
+<TD>1.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>287</TD>
+<TD>7.5</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-11 03:20:26</TD>
+<TD>2015-07-11 03:18:00</TD>
+<TD>5° 44' 57.60" N</TD>
+<TD>97° 08' 40.80" E</TD>
+<TD>12.4</TD>
+<TD>11.9</TD>
+<TD>281</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>North</TD>
+<TD>Arun Terminal</TD>
+<TD>11.7</TD>
+<TD>226</TD>
+<TD>1009</TD>
+<TD>1.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD> </TD>
+<TD>283</TD>
+<TD>7.1</TD>
+<TD>n/a</TD>
+<TD>71.6</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-11 09:20:26</TD>
+<TD>2015-07-11 09:18:00</TD>
+<TD>5° 58' 45.60" N</TD>
+<TD>95° 57' 31.20" E</TD>
+<TD>10.8</TD>
+<TD>12</TD>
+<TD>282</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Sabang</TD>
+<TD>10.7</TD>
+<TD>230</TD>
+<TD>1008</TD>
+<TD>1.3</TD>
+<TD>1.3</TD>
+<TD>8.3</TD>
+<TD>247</TD>
+<TD>0.1</TD>
+<TD>15.6</TD>
+<TD>274</TD>
+<TD>8.3</TD>
+<TD>n/a</TD>
+<TD>72.1</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-11 15:20:26</TD>
+<TD>2015-07-11 15:18:00</TD>
+<TD>5° 55' 07.20" N</TD>
+<TD>94° 47' 12.00" E</TD>
+<TD>11.2</TD>
+<TD>11.7</TD>
+<TD>223</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Sabang</TD>
+<TD>7.7</TD>
+<TD>222</TD>
+<TD>1008</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>258</TD>
+<TD>1.6</TD>
+<TD>8.2</TD>
+<TD>213</TD>
+<TD>14.4</TD>
+<TD>n/a</TD>
+<TD>70</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-11 21:20:26</TD>
+<TD>2015-07-11 21:18:00</TD>
+<TD>5° 06' 24.00" N</TD>
+<TD>93° 58' 55.20" E</TD>
+<TD>11.4</TD>
+<TD>11.4</TD>
+<TD>224</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>West</TD>
+<TD>Lhoknga</TD>
+<TD>9.7</TD>
+<TD>262</TD>
+<TD>1009</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>273</TD>
+<TD>1.3</TD>
+<TD>8.1</TD>
+<TD>214</TD>
+<TD>14.1</TD>
+<TD>n/a</TD>
+<TD>68.4</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-12 03:20:43</TD>
+<TD>2015-07-12 03:18:00</TD>
+<TD>4° 15' 50.40" N</TD>
+<TD>93° 11' 45.60" E</TD>
+<TD>10.8</TD>
+<TD>11.5</TD>
+<TD>224</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>12.4</TD>
+<TD>240</TD>
+<TD>1009</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>271</TD>
+<TD>1.3</TD>
+<TD>7.9</TD>
+<TD>247</TD>
+<TD>7.9</TD>
+<TD>n/a</TD>
+<TD>69</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-12 09:20:43</TD>
+<TD>2015-07-12 09:18:00</TD>
+<TD>3° 26' 26.40" N</TD>
+<TD>92° 25' 45.60" E</TD>
+<TD>10.8</TD>
+<TD>11.2</TD>
+<TD>224</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>9.2</TD>
+<TD>248</TD>
+<TD>1008</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>280</TD>
+<TD>1.2</TD>
+<TD>7.8</TD>
+<TD>244</TD>
+<TD>7.9</TD>
+<TD>n/a</TD>
+<TD>67.4</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-12 15:20:26</TD>
+<TD>2015-07-12 15:18:00</TD>
+<TD>2° 39' 04.80" N</TD>
+<TD>91° 41' 40.80" E</TD>
+<TD>10.4</TD>
+<TD>10.8</TD>
+<TD>225</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>12.5</TD>
+<TD>224</TD>
+<TD>1009</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>280</TD>
+<TD>1.4</TD>
+<TD>7.7</TD>
+<TD>246</TD>
+<TD>8</TD>
+<TD>n/a</TD>
+<TD>64.7</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-12 21:20:35</TD>
+<TD>2015-07-12 21:18:00</TD>
+<TD>1° 51' 57.60" N</TD>
+<TD>90° 57' 57.60" E</TD>
+<TD>10.4</TD>
+<TD>10.7</TD>
+<TD>227</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>9.4</TD>
+<TD>191</TD>
+<TD>1008</TD>
+<TD>2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>170</TD>
+<TD>1.6</TD>
+<TD>10.3</TD>
+<TD>179</TD>
+<TD>10.2</TD>
+<TD>n/a</TD>
+<TD>64.3</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-13 03:20:26</TD>
+<TD>2015-07-13 03:18:00</TD>
+<TD>1° 05' 02.40" N</TD>
+<TD>90° 14' 31.20" E</TD>
+<TD>10.8</TD>
+<TD>10.7</TD>
+<TD>226</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>13.2</TD>
+<TD>191</TD>
+<TD>1008</TD>
+<TD>2.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>169</TD>
+<TD>1.8</TD>
+<TD>10.1</TD>
+<TD>172</TD>
+<TD>10</TD>
+<TD>n/a</TD>
+<TD>63.9</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-13 09:20:35</TD>
+<TD>2015-07-13 09:18:00</TD>
+<TD>0° 18' 09.60" N</TD>
+<TD>89° 30' 45.60" E</TD>
+<TD>10.4</TD>
+<TD>10.7</TD>
+<TD>229</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Lhoknga</TD>
+<TD>12.3</TD>
+<TD>179</TD>
+<TD>1008</TD>
+<TD>2.6</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>162</TD>
+<TD>2.2</TD>
+<TD>10.2</TD>
+<TD>166</TD>
+<TD>10.2</TD>
+<TD>n/a</TD>
+<TD>64.1</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-13 15:20:43</TD>
+<TD>2015-07-13 15:18:00</TD>
+<TD>0° 25' 38.40" S</TD>
+<TD>88° 50' 07.20" E</TD>
+<TD>9.6</TD>
+<TD>10</TD>
+<TD>222</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>13.9</TD>
+<TD>179</TD>
+<TD>1008</TD>
+<TD>2.7</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>161</TD>
+<TD>2.2</TD>
+<TD>10.2</TD>
+<TD>161</TD>
+<TD>10.2</TD>
+<TD>n/a</TD>
+<TD>59.7</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-13 21:20:18</TD>
+<TD>2015-07-13 21:18:00</TD>
+<TD>1° 08' 52.80" S</TD>
+<TD>88° 09' 52.80" E</TD>
+<TD>9.6</TD>
+<TD>9.8</TD>
+<TD>224</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>13.7</TD>
+<TD>173</TD>
+<TD>1009</TD>
+<TD>2.8</TD>
+<TD>2.4</TD>
+<TD>9.8</TD>
+<TD>208</TD>
+<TD>1</TD>
+<TD>17.6</TD>
+<TD>209</TD>
+<TD>17.6</TD>
+<TD>n/a</TD>
+<TD>59.1</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-14 03:20:17</TD>
+<TD>2015-07-14 03:18:00</TD>
+<TD>1° 53' 16.80" S</TD>
+<TD>87° 28' 38.40" E</TD>
+<TD>10.2</TD>
+<TD>10.1</TD>
+<TD>226</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>13.6</TD>
+<TD>184</TD>
+<TD>1008</TD>
+<TD>2.7</TD>
+<TD>2.3</TD>
+<TD>9.9</TD>
+<TD>209</TD>
+<TD>1.2</TD>
+<TD>16.9</TD>
+<TD>209</TD>
+<TD>16.9</TD>
+<TD>n/a</TD>
+<TD>60.6</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-14 09:20:26</TD>
+<TD>2015-07-14 09:18:00</TD>
+<TD>2° 39' 48.00" S</TD>
+<TD>86° 45' 19.20" E</TD>
+<TD>10.4</TD>
+<TD>10.6</TD>
+<TD>217</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>14.6</TD>
+<TD>173</TD>
+<TD>1009</TD>
+<TD>2.6</TD>
+<TD>2.1</TD>
+<TD>10.1</TD>
+<TD>212</TD>
+<TD>1.4</TD>
+<TD>16.2</TD>
+<TD>212</TD>
+<TD>16.2</TD>
+<TD>n/a</TD>
+<TD>63.5</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-14 15:24:02</TD>
+<TD>2015-07-14 15:18:00</TD>
+<TD>3° 27' 36.00" S</TD>
+<TD>86° 01' 38.40" E</TD>
+<TD>11.4</TD>
+<TD>10.8</TD>
+<TD>217</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>16</TD>
+<TD>168</TD>
+<TD>1008</TD>
+<TD>2.5</TD>
+<TD>2.1</TD>
+<TD>10.1</TD>
+<TD>212</TD>
+<TD>1.4</TD>
+<TD>16.3</TD>
+<TD>215</TD>
+<TD>16.3</TD>
+<TD>n/a</TD>
+<TD>64.7</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-14 21:20:35</TD>
+<TD>2015-07-14 21:18:00</TD>
+<TD>4° 16' 40.80" S</TD>
+<TD>85° 15' 09.60" E</TD>
+<TD>11</TD>
+<TD>11.3</TD>
+<TD>218</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>17.9</TD>
+<TD>147</TD>
+<TD>1009</TD>
+<TD>2.5</TD>
+<TD>2</TD>
+<TD>9.7</TD>
+<TD>213</TD>
+<TD>1.3</TD>
+<TD>15.6</TD>
+<TD>214</TD>
+<TD>15.6</TD>
+<TD>n/a</TD>
+<TD>67.5</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-15 03:20:35</TD>
+<TD>2015-07-15 03:18:00</TD>
+<TD>5° 07' 00.00" S</TD>
+<TD>84° 28' 19.20" E</TD>
+<TD>11.2</TD>
+<TD>11.4</TD>
+<TD>224</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>17.8</TD>
+<TD>142</TD>
+<TD>1008</TD>
+<TD>2.4</TD>
+<TD>2</TD>
+<TD>9.7</TD>
+<TD>214</TD>
+<TD>1.2</TD>
+<TD>15.3</TD>
+<TD>217</TD>
+<TD>15.3</TD>
+<TD>n/a</TD>
+<TD>68.6</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-15 09:21:35</TD>
+<TD>2015-07-15 09:18:00</TD>
+<TD>5° 55' 14.40" S</TD>
+<TD>83° 43' 16.80" E</TD>
+<TD>11</TD>
+<TD>11</TD>
+<TD>222</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>17.6</TD>
+<TD>142</TD>
+<TD>1010</TD>
+<TD>2.5</TD>
+<TD>2.2</TD>
+<TD>9.5</TD>
+<TD>215</TD>
+<TD>1.1</TD>
+<TD>14.9</TD>
+<TD>139</TD>
+<TD>9.5</TD>
+<TD>n/a</TD>
+<TD>65.9</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-15 15:20:35</TD>
+<TD>2015-07-15 15:18:00</TD>
+<TD>6° 44' 07.20" S</TD>
+<TD>82° 58' 00.00" E</TD>
+<TD>11</TD>
+<TD>11.1</TD>
+<TD>226</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>18.7</TD>
+<TD>142</TD>
+<TD>1008</TD>
+<TD>2.6</TD>
+<TD>2.3</TD>
+<TD>9.4</TD>
+<TD>215</TD>
+<TD>1</TD>
+<TD>14.5</TD>
+<TD>137</TD>
+<TD>9.4</TD>
+<TD>n/a</TD>
+<TD>66.4</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-15 21:20:26</TD>
+<TD>2015-07-15 21:18:00</TD>
+<TD>7° 31' 55.20" S</TD>
+<TD>82° 12' 48.00" E</TD>
+<TD>10</TD>
+<TD>10.9</TD>
+<TD>228</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD></TD>
+<TD></TD>
+<TD>19.2</TD>
+<TD>135</TD>
+<TD>1011</TD>
+<TD>2.6</TD>
+<TD>2.4</TD>
+<TD>9.1</TD>
+<TD>214</TD>
+<TD>1</TD>
+<TD>14.7</TD>
+<TD>132</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD>65.5</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-16 12:37:23</TD>
+<TD>2015-07-16 12:36:00</TD>
+<TD>9° 27' 50.40" S</TD>
+<TD>80° 23' 48.00" E</TD>
+<TD>10.4</TD>
+<TD>10.3</TD>
+<TD>221</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Diego Garcia</TD>
+<TD>17</TD>
+<TD>127</TD>
+<TD>1010</TD>
+<TD>2.6</TD>
+<TD>2.3</TD>
+<TD>8.9</TD>
+<TD>199</TD>
+<TD>0.8</TD>
+<TD>11</TD>
+<TD>130</TD>
+<TD>9.4</TD>
+<TD>n/a</TD>
+<TD>158.3</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-16 15:20:23</TD>
+<TD>2015-07-16 15:18:00</TD>
+<TD>9° 48' 14.40" S</TD>
+<TD>80° 04' 31.20" E</TD>
+<TD>9.8</TD>
+<TD>10.3</TD>
+<TD>227</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Diego Garcia</TD>
+<TD>19.9</TD>
+<TD>125</TD>
+<TD>1011</TD>
+<TD>3</TD>
+<TD>2.6</TD>
+<TD>8.7</TD>
+<TD>193</TD>
+<TD>1</TD>
+<TD>10.6</TD>
+<TD>131</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>27.9</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-16 21:20:23</TD>
+<TD>2015-07-16 21:18:00</TD>
+<TD>10° 32' 38.40" S</TD>
+<TD>79° 22' 45.60" E</TD>
+<TD>10.4</TD>
+<TD>10.1</TD>
+<TD>222</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Diego Garcia</TD>
+<TD>19.3</TD>
+<TD>125</TD>
+<TD>1012</TD>
+<TD>3.1</TD>
+<TD>2.7</TD>
+<TD>8.7</TD>
+<TD>182</TD>
+<TD>1.3</TD>
+<TD>9.9</TD>
+<TD>136</TD>
+<TD>9.2</TD>
+<TD>n/a</TD>
+<TD>60.5</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-17 03:20:23</TD>
+<TD>2015-07-17 03:18:00</TD>
+<TD>11° 17' 57.60" S</TD>
+<TD>78° 39' 55.20" E</TD>
+<TD>10.4</TD>
+<TD>10.3</TD>
+<TD>228</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Diego Garcia</TD>
+<TD>20</TD>
+<TD>117</TD>
+<TD>1013</TD>
+<TD>3.2</TD>
+<TD>2.8</TD>
+<TD>9.1</TD>
+<TD>170</TD>
+<TD>1.2</TD>
+<TD>9.7</TD>
+<TD>130</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD>61.8</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-17 09:20:40</TD>
+<TD>2015-07-17 09:18:00</TD>
+<TD>11° 56' 55.20" S</TD>
+<TD>77° 46' 33.60" E</TD>
+<TD>11.6</TD>
+<TD>10.9</TD>
+<TD>247</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Diego Garcia</TD>
+<TD>20.3</TD>
+<TD>117</TD>
+<TD>1014</TD>
+<TD>3.2</TD>
+<TD>3</TD>
+<TD>9.3</TD>
+<TD>174</TD>
+<TD>0.9</TD>
+<TD>11.6</TD>
+<TD>130</TD>
+<TD>9.3</TD>
+<TD>n/a</TD>
+<TD>65.2</TD>
+</TR>
+<TR>
+<TD>RAVE</TD>
+<TD>2015-07-17 15:20:32</TD>
+<TD>2015-07-17 15:18:00</TD>
+<TD>12° 34' 55.20" S</TD>
+<TD>76° 53' 00.00" E</TD>
+<TD>11</TD>
+<TD>10.8</TD>
+<TD>235</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Diego Garcia</TD>
+<TD>21.6</TD>
+<TD>123</TD>
+<TD>1012</TD>
+<TD>3.2</TD>
+<TD>3.1</TD>
+<TD>9.4</TD>
+<TD>170</TD>
+<TD>0.6</TD>
+<TD>11.4</TD>
+<TD>132</TD>
+<TD>9.4</TD>
+<TD>n/a</TD>
+<TD>64.7</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-10 16:48:17</TD>
+<TD>2015-07-10 16:46:00</TD>
+<TD>17° 41' 31.20" S</TD>
+<TD>68° 53' 14.40" E</TD>
+<TD>10.6</TD>
+<TD> </TD>
+<TD>240</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Rodrigues</TD>
+<TD>19.8</TD>
+<TD>105</TD>
+<TD>1017</TD>
+<TD>3.5</TD>
+<TD>2.4</TD>
+<TD>9.6</TD>
+<TD>219</TD>
+<TD>2.5</TD>
+<TD>14.3</TD>
+<TD>220</TD>
+<TD>14.3</TD>
+<TD>n/a</TD>
+<TD> </TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-10 22:50:27</TD>
+<TD>2015-07-10 22:46:00</TD>
+<TD>18° 18' 50.40" S</TD>
+<TD>67° 52' 43.20" E</TD>
+<TD>11.6</TD>
+<TD>11.4</TD>
+<TD>243</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Rodrigues</TD>
+<TD>19.2</TD>
+<TD>110</TD>
+<TD>1017</TD>
+<TD>3.3</TD>
+<TD>2.4</TD>
+<TD>9.7</TD>
+<TD>215</TD>
+<TD>2.2</TD>
+<TD>14</TD>
+<TD>215</TD>
+<TD>14</TD>
+<TD>n/a</TD>
+<TD>68.6</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-11 04:48:34</TD>
+<TD>2015-07-11 04:46:00</TD>
+<TD>18° 57' 00.00" S</TD>
+<TD>66° 52' 09.60" E</TD>
+<TD>11.4</TD>
+<TD>11.5</TD>
+<TD>231</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Rodrigues</TD>
+<TD>18.4</TD>
+<TD>98.2</TD>
+<TD>1018</TD>
+<TD>3.4</TD>
+<TD>2.5</TD>
+<TD>9.9</TD>
+<TD>216</TD>
+<TD>2</TD>
+<TD>13.4</TD>
+<TD>213</TD>
+<TD>13.3</TD>
+<TD>n/a</TD>
+<TD>68.9</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-11 10:50:00</TD>
+<TD>2015-07-11 10:46:00</TD>
+<TD>19° 35' 26.40" S</TD>
+<TD>65° 48' 57.60" E</TD>
+<TD>11.4</TD>
+<TD>11.8</TD>
+<TD>235</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Rodrigues</TD>
+<TD>15.7</TD>
+<TD>108</TD>
+<TD>1019</TD>
+<TD>3.5</TD>
+<TD>2.4</TD>
+<TD>10</TD>
+<TD>213</TD>
+<TD>1.8</TD>
+<TD>13</TD>
+<TD>208</TD>
+<TD>17.4</TD>
+<TD>n/a</TD>
+<TD>71</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-11 16:49:34</TD>
+<TD>2015-07-11 16:46:00</TD>
+<TD>20° 11' 45.60" S</TD>
+<TD>64° 42' 33.60" E</TD>
+<TD>12</TD>
+<TD>12</TD>
+<TD>245</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Rodrigues</TD>
+<TD>16.2</TD>
+<TD>115</TD>
+<TD>1018</TD>
+<TD>3.3</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>207</TD>
+<TD>1.7</TD>
+<TD>16.4</TD>
+<TD>209</TD>
+<TD>16.4</TD>
+<TD>n/a</TD>
+<TD>72.2</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-11 22:49:43</TD>
+<TD>2015-07-11 22:46:00</TD>
+<TD>20° 38' 50.40" S</TD>
+<TD>63° 32' 02.40" E</TD>
+<TD>12</TD>
+<TD>11.9</TD>
+<TD>237</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Rodrigues</TD>
+<TD>18.1</TD>
+<TD>134</TD>
+<TD>1020</TD>
+<TD>3.2</TD>
+<TD>2.3</TD>
+<TD>10.1</TD>
+<TD>210</TD>
+<TD>2.2</TD>
+<TD>16.4</TD>
+<TD>217</TD>
+<TD>16.4</TD>
+<TD>n/a</TD>
+<TD>71.4</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-12 04:50:00</TD>
+<TD>2015-07-12 04:46:00</TD>
+<TD>21° 04' 57.60" S</TD>
+<TD>62° 22' 07.20" E</TD>
+<TD>11.4</TD>
+<TD>11.7</TD>
+<TD>247</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Rodrigues</TD>
+<TD>18.4</TD>
+<TD>120</TD>
+<TD>1020</TD>
+<TD>3.1</TD>
+<TD>2.4</TD>
+<TD>10.2</TD>
+<TD>211</TD>
+<TD>2</TD>
+<TD>15.7</TD>
+<TD>217</TD>
+<TD>15.7</TD>
+<TD>n/a</TD>
+<TD>70.4</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-12 10:53:28</TD>
+<TD>2015-07-12 10:46:00</TD>
+<TD>21° 32' 12.00" S</TD>
+<TD>61° 11' 12.00" E</TD>
+<TD>12.2</TD>
+<TD>11.9</TD>
+<TD>246</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Rodrigues</TD>
+<TD>20</TD>
+<TD>129</TD>
+<TD>1021</TD>
+<TD>2.9</TD>
+<TD>2.3</TD>
+<TD>10.1</TD>
+<TD>213</TD>
+<TD>1.8</TD>
+<TD>15.2</TD>
+<TD>220</TD>
+<TD>15.2</TD>
+<TD>n/a</TD>
+<TD>71.5</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-12 16:49:34</TD>
+<TD>2015-07-12 16:46:00</TD>
+<TD>22° 01' 16.80" S</TD>
+<TD>59° 54' 33.60" E</TD>
+<TD>12.6</TD>
+<TD>12.8</TD>
+<TD>247</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Sir Seewoosagur Ramgoolam</TD>
+<TD>18.4</TD>
+<TD>132</TD>
+<TD>1022</TD>
+<TD>2.8</TD>
+<TD>2.1</TD>
+<TD>10.2</TD>
+<TD>214</TD>
+<TD>1.7</TD>
+<TD>14.5</TD>
+<TD>220</TD>
+<TD>14.4</TD>
+<TD>n/a</TD>
+<TD>76.9</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-12 22:48:51</TD>
+<TD>2015-07-12 22:46:00</TD>
+<TD>22° 29' 21.60" S</TD>
+<TD>58° 41' 00.00" E</TD>
+<TD>12</TD>
+<TD>12.3</TD>
+<TD>246</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Sir Seewoosagur Ramgoolam</TD>
+<TD>19.3</TD>
+<TD>126</TD>
+<TD>1024</TD>
+<TD>2.9</TD>
+<TD>2.1</TD>
+<TD>10.2</TD>
+<TD>212</TD>
+<TD>1.9</TD>
+<TD>14.3</TD>
+<TD>142</TD>
+<TD>10.5</TD>
+<TD>n/a</TD>
+<TD>73.6</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-13 04:48:25</TD>
+<TD>2015-07-13 04:46:00</TD>
+<TD>22° 55' 14.40" S</TD>
+<TD>57° 30' 07.20" E</TD>
+<TD>11.6</TD>
+<TD>11.7</TD>
+<TD>246</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Saint-Philippe</TD>
+<TD>19.4</TD>
+<TD>116</TD>
+<TD>1024</TD>
+<TD>2.9</TD>
+<TD>1.9</TD>
+<TD>10.2</TD>
+<TD>218</TD>
+<TD>1.5</TD>
+<TD>15.3</TD>
+<TD>218</TD>
+<TD>15.2</TD>
+<TD>n/a</TD>
+<TD>70.3</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-13 10:48:34</TD>
+<TD>2015-07-13 10:46:00</TD>
+<TD>23° 23' 31.20" S</TD>
+<TD>56° 15' 40.80" E</TD>
+<TD>12.2</TD>
+<TD>12.3</TD>
+<TD>244</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Saint-Philippe</TD>
+<TD>20.1</TD>
+<TD>116</TD>
+<TD>1027</TD>
+<TD>3</TD>
+<TD>2.4</TD>
+<TD>7.7</TD>
+<TD>214</TD>
+<TD>1.8</TD>
+<TD>14</TD>
+<TD>215</TD>
+<TD>13.6</TD>
+<TD>n/a</TD>
+<TD>74.1</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-13 16:48:51</TD>
+<TD>2015-07-13 16:46:00</TD>
+<TD>23° 52' 26.40" S</TD>
+<TD>54° 58' 36.00" E</TD>
+<TD>12.4</TD>
+<TD>12.7</TD>
+<TD>249</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Saint-Joseph</TD>
+<TD>20.2</TD>
+<TD>107</TD>
+<TD>1024</TD>
+<TD>2.8</TD>
+<TD>2.3</TD>
+<TD>9.6</TD>
+<TD>213</TD>
+<TD>1.6</TD>
+<TD>13.2</TD>
+<TD>207</TD>
+<TD>12.7</TD>
+<TD>n/a</TD>
+<TD>76.3</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-13 22:49:43</TD>
+<TD>2015-07-13 22:46:00</TD>
+<TD>24° 19' 48.00" S</TD>
+<TD>53° 45' 14.40" E</TD>
+<TD>12</TD>
+<TD>12.1</TD>
+<TD>248</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>St Pierre de la Reunion</TD>
+<TD>18.4</TD>
+<TD>97.8</TD>
+<TD>1025</TD>
+<TD>2.6</TD>
+<TD>2.2</TD>
+<TD>9.6</TD>
+<TD>217</TD>
+<TD>1.2</TD>
+<TD>13.2</TD>
+<TD>175</TD>
+<TD>11.8</TD>
+<TD>n/a</TD>
+<TD>72.3</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-14 04:52:53</TD>
+<TD>2015-07-14 04:46:00</TD>
+<TD>24° 46' 40.80" S</TD>
+<TD>52° 31' 21.60" E</TD>
+<TD>12.2</TD>
+<TD>12.1</TD>
+<TD>250</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>St Pierre de la Reunion</TD>
+<TD>14</TD>
+<TD>85.3</TD>
+<TD>1025</TD>
+<TD>2.2</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>88.3</TD>
+<TD>1.9</TD>
+<TD>9.5</TD>
+<TD>96.4</TD>
+<TD>9.6</TD>
+<TD>n/a</TD>
+<TD>72.4</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-14 10:50:00</TD>
+<TD>2015-07-14 10:46:00</TD>
+<TD>25° 13' 55.20" S</TD>
+<TD>51° 18' 28.80" E</TD>
+<TD>11.6</TD>
+<TD>11.9</TD>
+<TD>244</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Tolagnaro</TD>
+<TD>7.2</TD>
+<TD>76.2</TD>
+<TD>1026</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>86.6</TD>
+<TD>1.8</TD>
+<TD>9.6</TD>
+<TD>90.5</TD>
+<TD>9.7</TD>
+<TD>n/a</TD>
+<TD>71.4</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-14 16:50:09</TD>
+<TD>2015-07-14 16:46:00</TD>
+<TD>25° 40' 00.00" S</TD>
+<TD>50° 07' 31.20" E</TD>
+<TD>10.6</TD>
+<TD>11.5</TD>
+<TD>244</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Tolagnaro</TD>
+<TD>8.5</TD>
+<TD>85.8</TD>
+<TD>1023</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>84.4</TD>
+<TD>1.7</TD>
+<TD>9.7</TD>
+<TD>88.8</TD>
+<TD>9.8</TD>
+<TD>n/a</TD>
+<TD>69.2</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-14 22:49:34</TD>
+<TD>2015-07-14 22:46:00</TD>
+<TD>26° 05' 40.80" S</TD>
+<TD>48° 57' 50.40" E</TD>
+<TD>11.8</TD>
+<TD>11.3</TD>
+<TD>244</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Tolagnaro</TD>
+<TD>7.7</TD>
+<TD>54.9</TD>
+<TD>1024</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>85.4</TD>
+<TD>1.7</TD>
+<TD>9.8</TD>
+<TD>86.6</TD>
+<TD>10.1</TD>
+<TD>n/a</TD>
+<TD>67.7</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-15 04:48:34</TD>
+<TD>2015-07-15 04:46:00</TD>
+<TD>26° 33' 04.80" S</TD>
+<TD>47° 44' 00.00" E</TD>
+<TD>11.6</TD>
+<TD>11.9</TD>
+<TD>250</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southeast</TD>
+<TD>Tolagnaro</TD>
+<TD>12</TD>
+<TD>35.7</TD>
+<TD>1024</TD>
+<TD>2.1</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>83.9</TD>
+<TD>1.6</TD>
+<TD>10.1</TD>
+<TD>192</TD>
+<TD>11.8</TD>
+<TD>n/a</TD>
+<TD>71.6</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-15 10:49:26</TD>
+<TD>2015-07-15 10:46:00</TD>
+<TD>26° 58' 45.60" S</TD>
+<TD>46° 33' 04.80" E</TD>
+<TD>11.2</TD>
+<TD>11.4</TD>
+<TD>246</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Tolagnaro</TD>
+<TD>8.5</TD>
+<TD>104</TD>
+<TD>1026</TD>
+<TD>2.4</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>232</TD>
+<TD>1.7</TD>
+<TD>11.9</TD>
+<TD>227</TD>
+<TD>11.7</TD>
+<TD>n/a</TD>
+<TD>68.3</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-15 16:49:17</TD>
+<TD>2015-07-15 16:46:00</TD>
+<TD>27° 24' 38.40" S</TD>
+<TD>45° 20' 33.60" E</TD>
+<TD>11.6</TD>
+<TD>11.6</TD>
+<TD>250</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Taolagnaro</TD>
+<TD>15.5</TD>
+<TD>131</TD>
+<TD>1024</TD>
+<TD>2.5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>87.5</TD>
+<TD>1.6</TD>
+<TD>10.2</TD>
+<TD>207</TD>
+<TD>11</TD>
+<TD>n/a</TD>
+<TD>69.5</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-15 22:48:25</TD>
+<TD>2015-07-15 22:46:00</TD>
+<TD>27° 49' 50.40" S</TD>
+<TD>44° 10' 48.00" E</TD>
+<TD>10.8</TD>
+<TD>11.1</TD>
+<TD>252</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Taolagnaro</TD>
+<TD>12.7</TD>
+<TD>106</TD>
+<TD>1026</TD>
+<TD>2.5</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>228</TD>
+<TD>2</TD>
+<TD>13.3</TD>
+<TD>229</TD>
+<TD>13.2</TD>
+<TD>n/a</TD>
+<TD>66.7</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-16 10:49:49</TD>
+<TD>2015-07-16 10:46:00</TD>
+<TD>28° 41' 43.20" S</TD>
+<TD>41° 46' 02.40" E</TD>
+<TD>10.8</TD>
+<TD>11.5</TD>
+<TD>245</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>South</TD>
+<TD>Tulear</TD>
+<TD>13.1</TD>
+<TD>92.1</TD>
+<TD>1025</TD>
+<TD>2.1</TD>
+<TD>1.5</TD>
+<TD>10.2</TD>
+<TD>224</TD>
+<TD>1.4</TD>
+<TD>12.4</TD>
+<TD>182</TD>
+<TD>11.2</TD>
+<TD>n/a</TD>
+<TD>137.6</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-16 13:25:54</TD>
+<TD>2015-07-16 13:24:00</TD>
+<TD>28° 52' 57.60" S</TD>
+<TD>41° 14' 57.60" E</TD>
+<TD>11.8</TD>
+<TD>11.2</TD>
+<TD>249</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Tulear</TD>
+<TD>14</TD>
+<TD>71.8</TD>
+<TD>1022</TD>
+<TD>1.9</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>85.5</TD>
+<TD>1.1</TD>
+<TD>10.2</TD>
+<TD>164</TD>
+<TD>10.9</TD>
+<TD>n/a</TD>
+<TD>29.5</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-16 16:50:14</TD>
+<TD>2015-07-16 16:46:00</TD>
+<TD>29° 08' 48.00" S</TD>
+<TD>40° 30' 50.40" E</TD>
+<TD>12.6</TD>
+<TD>12.4</TD>
+<TD>245</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>Southwest</TD>
+<TD>Tulear</TD>
+<TD>14</TD>
+<TD>71.8</TD>
+<TD>1022</TD>
+<TD>1.8</TD>
+<TD> </TD>
+<TD> </TD>
+<TD>227</TD>
+<TD>0.9</TD>
+<TD>12.3</TD>
+<TD>164</TD>
+<TD>10.9</TD>
+<TD>n/a</TD>
+<TD>41.7</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-16 22:50:15</TD>
+<TD>2015-07-16 22:46:00</TD>
+<TD>29° 37' 16.80" S</TD>
+<TD>39° 09' 52.80" E</TD>
+<TD>13</TD>
+<TD>12.7</TD>
+<TD>245</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Richards Bay</TD>
+<TD>16.9</TD>
+<TD>37.7</TD>
+<TD>1020</TD>
+<TD>2.1</TD>
+<TD>1.3</TD>
+<TD>5</TD>
+<TD>83.6</TD>
+<TD>1</TD>
+<TD>10.2</TD>
+<TD>127</TD>
+<TD>10.6</TD>
+<TD>n/a</TD>
+<TD>76.1</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-17 04:50:06</TD>
+<TD>2015-07-17 04:46:00</TD>
+<TD>30° 06' 04.80" S</TD>
+<TD>37° 48' 28.80" E</TD>
+<TD>12</TD>
+<TD>12.7</TD>
+<TD>248</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Richards Bay</TD>
+<TD>20.1</TD>
+<TD>24.6</TD>
+<TD>1016</TD>
+<TD>2.6</TD>
+<TD>2.1</TD>
+<TD>6.2</TD>
+<TD>211</TD>
+<TD>1.1</TD>
+<TD>13.3</TD>
+<TD>16.1</TD>
+<TD>6.2</TD>
+<TD>n/a</TD>
+<TD>76.2</TD>
+</TR>
+<TR>
+<TD>ELECTRONICA</TD>
+<TD>2015-07-17 10:49:57</TD>
+<TD>2015-07-17 10:46:00</TD>
+<TD>30° 32' 36.00" S</TD>
+<TD>36° 33' 24.00" E</TD>
+<TD>10.8</TD>
+<TD>11.7</TD>
+<TD>249</TD>
+<TD>Standard</TD>
+<TD></TD>
+<TD>East</TD>
+<TD>Richards Bay</TD>
+<TD>25.2</TD>
+<TD>1.9</TD>
+<TD>1011</TD>
+<TD>3.4</TD>
+<TD>3.1</TD>
+<TD>7.9</TD>
+<TD>214</TD>
+<TD>1.1</TD>
+<TD>13.1</TD>
+<TD>344</TD>
+<TD>7.9</TD>
+<TD>n/a</TD>
+<TD>70</TD>
+</TR>
+</TABLE></BODY>
+</HTML>
