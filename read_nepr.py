@@ -40,8 +40,8 @@ trim_columns = [3, 4]
 start_row = 8
 # data start from row 8
 
-df = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
-print(df)
+df1 = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
+print(df1)
 
 
 # process sheet 'Weather Condition'
@@ -53,8 +53,8 @@ trim_columns = []
 start_row = 2
 # data start from row 2
 
-df = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
-print(df)
+df2 = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
+print(df2)
 
 
 # process sheet 'Bunkers and Lubs'
@@ -67,8 +67,8 @@ start_row = 2
 # data start from row 2
 
 
-df = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
-print(df)
+df3 = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
+print(df3)
 
 # process sheet 'Environmental'
 sheet = book.sheet_by_index(5)
@@ -80,5 +80,8 @@ start_row = 5
 # data start from row 5
 
 
-df = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
-print(df)
+df4 = df_from_sheet(sheet, basecol_number, columns_to_read, datetime_columns, trim_columns, start_row)
+print(df4)
+
+
+res = df1.merge(df2, on=[0, 1]).merge(df3, on=[0, 1]).merge(df4, on=[0, 1])
